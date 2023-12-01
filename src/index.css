@@ -11,4 +11,10 @@
     .icon-style {
         @apply text-xl text-gray-800 cursor-pointer
     }
+
+    .align-items {
+        @apply flex items-center space-x-2 
+    }
+    
+
 }
