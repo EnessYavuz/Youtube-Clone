@@ -11,11 +11,11 @@ const dataFilter = [
     },
     {
         id:2,
-        name:"Müzik"
+        name:"Music"
     },
     {
         id:3,
-        name:"Canlı"
+        name:"Live"
     },
     {
         id:4,
